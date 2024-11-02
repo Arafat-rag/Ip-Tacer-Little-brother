@@ -75,9 +75,9 @@ Il faut avoir `git` et `python3` d'installer sur sa machine
 
     sudo apt install git python3 #sur les distributions utilisant APT (comme la famille Debian)
 
-    git clone https://github.com/Lulz3xploit/LittleBrother
+    git clone https://github.com/Arafat-rag/Ip-Tacer-Little-brother
 
-    cd LittleBrother
+    cd Ip-Tacer-Little-brother
 
     python3 -m pip install -r requirements.txt
 
