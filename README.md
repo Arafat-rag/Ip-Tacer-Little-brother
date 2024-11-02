@@ -40,8 +40,7 @@ Littlebrother est maintenant en **Read only**, il ne sera plus maintenu ni mis �
 
 On a décidé de passer LittleBrother en Read only par manque de temps pour le developpement et la maintenance. On travail sur un autre outil similaire. Merci pour les issues/PR constructif, merci à ceux qui nous ou soutenu.
 
-Vous pouvez soutenir financierement le prochain projet : **BTC:** `1LvSfG69S1UBsQTrXobY7ZoJYAkvo2psKD`.
-
+Vous pouvez soutenir financierement le prochain projet : **upi:** 8961209855@axl
 
 
 LittleBrother
